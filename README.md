@@ -29,6 +29,7 @@ If you want to show your appreciation by donating using one of the following met
 
 - Contributing to a project (improve the documentation, extend/improve the code).  I prefer this!
 
-- <button onclick="window.location.href='bitcoin:1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW">Bitcoin Donation Address 1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW</button>
+- [Bitcoin Donation Address 1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW](bitcoin:1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW)
+  
 
-- <button onclick="window.location.href='https://www.paypal.com/donate/?token=eKawv0b3SyDzVRC-wFwe6BrFwNSIsau7shu25n70rujsNwzwFGAVu5mX6LAs_RTVRRkBMG'">Paypal Donation Link</button>
+- [Paypal Donation Link](https://www.paypal.com/donate/?token=eKawv0b3SyDzVRC-wFwe6BrFwNSIsau7shu25n70rujsNwzwFGAVu5mX6LAs_RTVRRkBMG)
