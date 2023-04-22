@@ -16,8 +16,8 @@ I have my name on a patent in a field that I least expected it in: a PCB design 
 
 Active projects I manage and code on are:
 
-- [ZHA-Toolkit](https://github.com/mdeweerd/zha-toolkit): A description of your first project and what it does.
-- [MetersToHA](https://github.com/mdeweerd/MetersToHA): A brief description of your second project and its purpose.
+- [ZHA-Toolkit](https://github.com/mdeweerd/zha-toolkit): Component for Home Assistant - A set of tools (services) for Zigbee devices operating with the ZHA component.
+- [MetersToHA](https://github.com/mdeweerd/MetersToHA): Addon/... to fetch data from Utility provides and "inject" them in Domotics Systems (Home Assistant, Domoticz, ...).
 
 My most popular project was `BT747`, created in 2009 to work with GPS Data Loggers: [https://bt747.org](https://bt747.org) or [https://sourceforge.net/projects/bt747/](https://sourceforge.net/projects/bt747/).
 
