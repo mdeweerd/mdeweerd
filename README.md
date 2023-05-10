@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am an engineer that loves a challenge and mostly projects where I can apply my skills accross different fields.
+I am an engineer that loves a challenge and mostly projects where I can apply my skills across different fields.
 
 I have extended experience in electronics design (circuit, PCB), ASIC design and verification, embedded software (firmware & embedded applications), systems administration, mobile software development, web application development (front/back), ... .
 
@@ -23,7 +23,7 @@ My most popular project was `BT747`, created in 2009 to work with GPS Data Logge
 
 
 You may want to checkout [my gists](https://gist.github.com/mdeweerd).  
-If you're on Home Assistant you can find a [configuration for "Terminal & SSH"](https://gist.github.com/mdeweerd/07918a6a1300fa64f0faf08c7e2a1dd1) that helps you reinstall python modules accross restarts, setup `screen` to maintain you SSH session, and also get a colorfull prompt and status line.
+If you're on Home Assistant you can find a [configuration for "Terminal & SSH"](https://gist.github.com/mdeweerd/07918a6a1300fa64f0faf08c7e2a1dd1) that helps you reinstall python modules across restarts, setup `screen` to maintain you SSH session, and also get a colorful prompt and status line.
 
 ## Donate
 
