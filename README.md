@@ -32,10 +32,5 @@ If you're on Home Assistant you can find a [configuration for "Terminal & SSH"](
 If you want to show your appreciation by donating using one of the following methods:
 
 - A thank you/thumbs up on the project you appreciate.
-
 - Contributing to a project (improve the documentation, extend/improve the code).  I prefer this!
-
-- [Bitcoin Donation Address 1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW](bitcoin:1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW)
-  
-
-- [Paypal Donation Link](https://www.paypal.com/donate/?token=eKawv0b3SyDzVRC-wFwe6BrFwNSIsau7shu25n70rujsNwzwFGAVu5mX6LAs_RTVRRkBMG)
+- <details><summary></summary>[Bitcoin Donation Address 1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW](bitcoin:1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW)</details>
