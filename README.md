@@ -34,3 +34,5 @@ If you want to show your appreciation by donating using one of the following met
 - A thank you/thumbs up on the project you appreciate.
 - Contributing to a project (improve the documentation, extend/improve the code).  I prefer this!
 - <details><summary></summary>[Bitcoin Donation Address 1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW](bitcoin:1AMJYMfGS2x8BX3HjSqZ5zapftzaGRGeNW)</details>
+
+[![MDW profile views](https://u8views.com/api/v1/github/profiles/1504752/views/day-week-month-total-count.svg)](https://u8views.com/github/mdeweerd)
